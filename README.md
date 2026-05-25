@@ -53,6 +53,8 @@ I then logged in using the Finance domain user account that was created earlier 
 
 ![Image](screenshots/whoami.png)
 
+---
+
 ## Finance Share Access Test
 
 From the Windows client, I accessed the Finance share using:
@@ -64,6 +66,8 @@ The Finance user was able to access the folder successfully after the correct gr
 ![Image](screenshots/findrive.png)
 
 To confirm write permissions, I created a test file inside the Finance share.
+
+---
 
 ## Group Policy Configuration
 
@@ -84,3 +88,11 @@ The account lockout policy included:
 ![Image](screenshots/lockout.png)
 
 These settings demonstrate centralized enforcement of basic account security controls in an Active Directory environment.
+
+---
+
+## Takeaways
+
+A few takeaways from this lab were that Active Directory administration involves actively managing an environment that requires authentication, group membership, permissions, client testing to ensure permissions work properly, and troubleshooting errors to ensure stability for operations.
+
+I enjoyed working on this lab as I learned many new things about IAM, and it tested my ability to handle problems effectively. 
