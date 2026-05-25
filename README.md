@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a hands-on Active Directory and Identity Access Management lab built using Windows Server and Windows 11 Pro.
+This project is an Active Directory and Identity Access Management lab built using Windows Server and Windows 11 Pro.
 
 The goal of this lab was to simulate an enterprise Windows domain environment where users, groups, permissions, shared resources, and Group Policy are all configured.
 
